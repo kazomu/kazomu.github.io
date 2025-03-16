@@ -18,22 +18,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "b8eed1e3b17f7367",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f765258f0f3ae81a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -181,8 +165,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "daa3713fbdde65a3",
+  "active": "2e6717ae865508d8",
   "lastOpenFiles": [
+    "2025-03-16.md",
     "Welcome.md",
     "static/uploads/resume.pdf",
     "static/uploads",
@@ -227,7 +212,6 @@
     "cazulieformell.github.io/content/blog/get-started/featured.jpg",
     "cazulieformell.github.io/content/blog/data-visualization/index.md",
     "cazulieformell.github.io/content/authors/admin/_index.md",
-    "cazulieformell.github.io/content/tags/_index.md",
-    "cazulieformell.github.io/content/blog/_index.md"
+    "cazulieformell.github.io/content/tags/_index.md"
   ]
 }
