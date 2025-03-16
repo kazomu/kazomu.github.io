@@ -11,10 +11,12 @@
             "id": "daa3713fbdde65a3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "content/authors/admin/avatar.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "avatar"
             }
           }
         ]
@@ -167,6 +169,9 @@
   },
   "active": "2e6717ae865508d8",
   "lastOpenFiles": [
+    "content/authors/admin/avatar.jpg",
+    "content/authors/admin/avatar.jpg",
+    "content/authors/admin/_index.md",
     "2025-03-16.md",
     "Welcome.md",
     "static/uploads/resume.pdf",
@@ -191,8 +196,6 @@
     "content/blog/get-started/featured.jpg",
     "content/blog/data-visualization/index.md",
     "content/blog/data-visualization/featured.jpg",
-    "content/authors/admin/avatar.jpg",
-    "content/authors/admin/_index.md",
     "content/tags/_index.md",
     "content/blog/_index.md",
     "content/authors/_index.md",
@@ -209,9 +212,7 @@
     "cazulieformell.github.io/content/blog/project-management/index.md",
     "cazulieformell.github.io/content/blog/project-management/featured.jpg",
     "cazulieformell.github.io/content/blog/get-started/index.md",
-    "cazulieformell.github.io/content/blog/get-started/featured.jpg",
     "cazulieformell.github.io/content/blog/data-visualization/index.md",
-    "cazulieformell.github.io/content/authors/admin/_index.md",
-    "cazulieformell.github.io/content/tags/_index.md"
+    "cazulieformell.github.io/content/authors/admin/_index.md"
   ]
 }
