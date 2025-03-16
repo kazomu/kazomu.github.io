@@ -1,1 +1,3 @@
 This Hugo site is built on [Creator's Blog: Hugo Theme](https://github.com/HugoBlox/theme-blog).
+
+In order to add math to a file, I currently follow the approach of https://bwaycer.github.io/hugo_tutorial.hugo/tutorials/mathjax/ that requires adding some HTML code to every file. The source also suggests a simpler way. This required enabling HTML, which is done following [https://discourse.gohugo.io/t/raw-html-getting-omitted-in-0-60-0/22032/6](https://discourse.gohugo.io/t/raw-html-getting-omitted-in-0-60-0/22032/6) and [https://gohugo.io/configuration/markup/#rendererunsafe](https://gohugo.io/configuration/markup/#rendererunsafe)
