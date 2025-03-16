@@ -1,5 +1,6 @@
 ---
 title: Favorite equations
+date: 2025-03-16
 ---
 
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"> </script>
