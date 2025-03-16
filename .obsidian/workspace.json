@@ -11,14 +11,12 @@
             "id": "87ae940e4d08110a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "content/blog/bakuman/index.md",
-                "mode": "source",
-                "source": false
+                "file": "public/blog/get-started/featured_hu_c47006dec7623e60.webp"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-image",
+              "title": "featured_hu_c47006dec7623e60"
             }
           }
         ]
@@ -169,14 +167,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87ae940e4d08110a",
+  "active": "2e6717ae865508d8",
   "lastOpenFiles": [
-    "content/authors/admin/_index.md",
-    "content/authors/_index.md",
+    "public/blog/get-started/featured_hu_7b4fdd7a11f17fab.webp",
+    "public/blog/get-started/featured.jpg",
+    "public/blog/data-visualization/featured_hu_a341297e5a7eacf4.webp",
+    "public/blog/data-visualization/featured_hu_57c3be22be4660b6.webp",
+    "public/blog/data-visualization/featured.jpg",
+    "public/author/カスリ/avatar.jpg",
+    "public/author/カスリ/avatar_hu_f256b60d92c5a037.jpg",
+    "public/author/カスリ/avatar_hu_f8ef67659225bd81.webp",
+    "public/author/カスリ/avatar_hu_e0946a3034192f8b.jpg",
     "content/_index.md",
     "content/tags/_index.md",
-    "content/uses.md",
     "content/blog/bakuman/index.md",
+    "content/authors/admin/_index.md",
+    "content/authors/_index.md",
+    "content/uses.md",
     "content/blog/_index.md",
     "content/blog/bakuman",
     "content/authors/admin/avatar.jpg",
@@ -190,14 +197,6 @@
     "public/categories/index.xml",
     "public/_redirects",
     "public/blog/project-management/featured_hu_51985fc479ab34e5.webp",
-    "public/blog/second-brain/featured_hu_3f6df5e7a95ef85c.webp",
-    "public/blog/data-visualization/featured_hu_57c3be22be4660b6.webp",
-    "public/blog/project-management/featured_hu_5d05315bb9353e5d.webp",
-    "public/blog/second-brain/featured_hu_c7331ad2d7007cb4.webp",
-    "public/author/カスリ/avatar_hu_e0946a3034192f8b.jpg",
-    "resources/_gen/images/author/カスリ/avatar_hu_e0946a3034192f8b.jpg",
-    "public/blog/get-started/featured_hu_c47006dec7623e60.webp",
-    "resources/_gen/images/blog/project-management/featured_hu_51985fc479ab34e5.webp",
     "2025-03-16.md",
     "Welcome.md",
     "hugo-blox/blox/community/README.md",
@@ -215,7 +214,6 @@
     "cazulieformell.github.io/content/blog/second-brain/index.md",
     "cazulieformell.github.io/content/blog/project-management/index.md",
     "cazulieformell.github.io/content/blog/get-started/index.md",
-    "cazulieformell.github.io/content/blog/data-visualization/index.md",
-    "cazulieformell.github.io/content/authors/admin/_index.md"
+    "cazulieformell.github.io/content/blog/data-visualization/index.md"
   ]
 }
