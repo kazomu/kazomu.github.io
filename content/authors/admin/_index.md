@@ -10,4 +10,4 @@ highlight_name: true
 website: ""
 ---
 
-Index to be written
+Blog under construction. The first post will, hopefully, be about [Bakuman](https://en.wikipedia.org/wiki/Bakuman), so stay tuned!
