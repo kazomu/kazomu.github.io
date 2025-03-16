@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "4b1172a26fbc1dd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca475df3a7a16324",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "daa3713fbdde65a3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b8eed1e3b17f7367",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f765258f0f3ae81a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0eed01986683d480",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb5fdab3f07cee1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e6717ae865508d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "308f4d92cf692c04",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1765206a0a616a7d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c8530b448437c830",
+    "type": "split",
+    "children": [
+      {
+        "id": "fff0f98207b919d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15f77941c4850fe5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "4888267de4f665d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "41d87f23b44a9354",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6cbd09139d8eae89",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "daa3713fbdde65a3",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "static/uploads/resume.pdf",
+    "static/uploads",
+    "static",
+    "notebooks/blog-with-jupyter.ipynb",
+    "notebooks",
+    "netlify.toml",
+    "hugoblox.yaml",
+    "hugo-blox/blox/community/README.md",
+    "hugo-blox/blox/all-access/README.md",
+    "hugo-blox/blox/community",
+    "hugo-blox/blox/all-access",
+    "hugo-blox/blox",
+    "content/blog/second-brain/index.md",
+    "content/blog/second-brain/featured.jpg",
+    "content/blog/teach-courses/index.md",
+    "content/blog/teach-courses/featured.jpg",
+    "content/blog/get-started/index.md",
+    "content/blog/project-management/featured.jpg",
+    "content/blog/project-management/index.md",
+    "content/blog/get-started/featured.jpg",
+    "content/blog/data-visualization/index.md",
+    "content/blog/data-visualization/featured.jpg",
+    "content/authors/admin/avatar.jpg",
+    "content/authors/admin/_index.md",
+    "content/tags/_index.md",
+    "content/blog/_index.md",
+    "content/authors/_index.md",
+    "content/uses.md",
+    "content/_index.md",
+    "README.md",
+    "LICENSE.md",
+    "cazulieformell.github.io/hugo-blox/blox/community/README.md",
+    "cazulieformell.github.io/hugo-blox/blox/all-access/README.md",
+    "cazulieformell.github.io/content/blog/teach-courses/index.md",
+    "cazulieformell.github.io/content/blog/teach-courses/featured.jpg",
+    "cazulieformell.github.io/content/blog/second-brain/index.md",
+    "cazulieformell.github.io/content/blog/second-brain/featured.jpg",
+    "cazulieformell.github.io/content/blog/project-management/index.md",
+    "cazulieformell.github.io/content/blog/project-management/featured.jpg",
+    "cazulieformell.github.io/content/blog/get-started/index.md",
+    "cazulieformell.github.io/content/blog/get-started/featured.jpg",
+    "cazulieformell.github.io/content/blog/data-visualization/index.md",
+    "cazulieformell.github.io/content/authors/admin/_index.md",
+    "cazulieformell.github.io/content/tags/_index.md",
+    "cazulieformell.github.io/content/blog/_index.md"
+  ]
+}
