@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/favorite-equations/index.md",
+                "file": "content/authors/admin/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "_index"
             }
           },
           {
@@ -88,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,9 +185,11 @@
   },
   "active": "87ae940e4d08110a",
   "lastOpenFiles": [
-    "content/_index.md",
+    "content/authors/_index.md",
     "content/blog/favorite-equations/index.md",
+    "content/blog/_index.md",
     "content/blog/bakuman/index.md",
+    "content/_index.md",
     "README.md",
     "public/blog/bakuman/index.html",
     "public/blog/bakuman",
@@ -210,9 +211,7 @@
     "public/author/カスリ/avatar_hu_e0946a3034192f8b.jpg",
     "content/tags/_index.md",
     "content/authors/admin/_index.md",
-    "content/authors/_index.md",
     "content/uses.md",
-    "content/blog/_index.md",
     "content/blog/bakuman",
     "hugo_stats.json",
     "public/index.xml",
