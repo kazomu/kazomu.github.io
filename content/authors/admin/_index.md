@@ -1,13 +1,12 @@
 ---
 title: カズリ
-name_pronunciation: Cazulie Formell
-first_name: Cazulie
-last_name: Formell
+name_pronunciation: Kazuri Foumu
+first_name: Kazuri
+last_name: Foumu
 superuser: true
 role: Publicly anonymous
-bio: Bio to be written
+bio: I am an academician using this blog to share my non-academic thoughts. My initial posts will be about anime, but I hope to diversify
 highlight_name: true
 website: ""
 ---
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"> </script>
-Blog under construction. The first post will, hopefully, be about [Bakuman](https://en.wikipedia.org/wiki/Bakuman), so stay tuned!
