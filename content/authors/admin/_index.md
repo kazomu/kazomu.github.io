@@ -7,9 +7,6 @@ status:
   icon: ☕️
 superuser: true
 role: Publicly anonymous
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
 bio: Bio to be written
 profiles:
   - icon: at-symbol

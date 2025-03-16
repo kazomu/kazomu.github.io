@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ca475df3a7a16324",
+        "id": "42f6efb9a84bc0a1",
         "type": "tabs",
         "children": [
           {
-            "id": "daa3713fbdde65a3",
+            "id": "87ae940e4d08110a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "content/authors/admin/avatar.jpg"
+                "file": "content/blog/my-post/index.md.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "avatar"
+              "icon": "lucide-file",
+              "title": "index.md"
             }
           }
         ]
@@ -51,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Stan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,37 +169,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e6717ae865508d8",
+  "active": "87ae940e4d08110a",
   "lastOpenFiles": [
-    "content/authors/admin/avatar.jpg",
-    "content/authors/admin/avatar.jpg",
+    "content/blog/_index.md",
+    "content/blog/my-post/index.md.md",
+    "content/blog/my-post",
     "content/authors/admin/_index.md",
+    "content/authors/admin/avatar.jpg",
+    "hugo_stats.json",
+    "public/index.xml",
+    "public/blog/index.xml",
+    "public/tag/hugo/index.xml",
+    "public/tag/hugo-blox-builder/index.xml",
+    "public/tag/academic/index.xml",
+    "public/tags/index.xml",
+    "public/categories/index.xml",
+    "public/_redirects",
+    "public/blog/project-management/featured_hu_51985fc479ab34e5.webp",
+    "public/blog/second-brain/featured_hu_3f6df5e7a95ef85c.webp",
+    "public/blog/data-visualization/featured_hu_57c3be22be4660b6.webp",
+    "public/blog/project-management/featured_hu_5d05315bb9353e5d.webp",
+    "public/blog/second-brain/featured_hu_c7331ad2d7007cb4.webp",
+    "public/author/カスリ/avatar_hu_e0946a3034192f8b.jpg",
+    "resources/_gen/images/author/カスリ/avatar_hu_e0946a3034192f8b.jpg",
+    "public/blog/get-started/featured_hu_c47006dec7623e60.webp",
+    "resources/_gen/images/blog/project-management/featured_hu_51985fc479ab34e5.webp",
     "2025-03-16.md",
     "Welcome.md",
-    "static/uploads/resume.pdf",
-    "static/uploads",
-    "static",
-    "notebooks/blog-with-jupyter.ipynb",
-    "notebooks",
-    "netlify.toml",
-    "hugoblox.yaml",
     "hugo-blox/blox/community/README.md",
     "hugo-blox/blox/all-access/README.md",
-    "hugo-blox/blox/community",
-    "hugo-blox/blox/all-access",
-    "hugo-blox/blox",
     "content/blog/second-brain/index.md",
-    "content/blog/second-brain/featured.jpg",
     "content/blog/teach-courses/index.md",
-    "content/blog/teach-courses/featured.jpg",
     "content/blog/get-started/index.md",
-    "content/blog/project-management/featured.jpg",
     "content/blog/project-management/index.md",
-    "content/blog/get-started/featured.jpg",
     "content/blog/data-visualization/index.md",
-    "content/blog/data-visualization/featured.jpg",
     "content/tags/_index.md",
-    "content/blog/_index.md",
     "content/authors/_index.md",
     "content/uses.md",
     "content/_index.md",
@@ -206,11 +212,8 @@
     "cazulieformell.github.io/hugo-blox/blox/community/README.md",
     "cazulieformell.github.io/hugo-blox/blox/all-access/README.md",
     "cazulieformell.github.io/content/blog/teach-courses/index.md",
-    "cazulieformell.github.io/content/blog/teach-courses/featured.jpg",
     "cazulieformell.github.io/content/blog/second-brain/index.md",
-    "cazulieformell.github.io/content/blog/second-brain/featured.jpg",
     "cazulieformell.github.io/content/blog/project-management/index.md",
-    "cazulieformell.github.io/content/blog/project-management/featured.jpg",
     "cazulieformell.github.io/content/blog/get-started/index.md",
     "cazulieformell.github.io/content/blog/data-visualization/index.md",
     "cazulieformell.github.io/content/authors/admin/_index.md"
