@@ -11,12 +11,14 @@
             "id": "87ae940e4d08110a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "public/blog/get-started/featured_hu_c47006dec7623e60.webp"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "featured_hu_c47006dec7623e60"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -167,8 +169,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e6717ae865508d8",
+  "active": "87ae940e4d08110a",
   "lastOpenFiles": [
+    "hugo-blox/blox/community/README.md",
+    "public/blog/get-started/featured_hu_c47006dec7623e60.webp",
     "public/blog/get-started/featured_hu_7b4fdd7a11f17fab.webp",
     "public/blog/get-started/featured.jpg",
     "public/blog/data-visualization/featured_hu_a341297e5a7eacf4.webp",
@@ -186,7 +190,6 @@
     "content/uses.md",
     "content/blog/_index.md",
     "content/blog/bakuman",
-    "content/authors/admin/avatar.jpg",
     "hugo_stats.json",
     "public/index.xml",
     "public/blog/index.xml",
@@ -196,10 +199,8 @@
     "public/tags/index.xml",
     "public/categories/index.xml",
     "public/_redirects",
-    "public/blog/project-management/featured_hu_51985fc479ab34e5.webp",
     "2025-03-16.md",
     "Welcome.md",
-    "hugo-blox/blox/community/README.md",
     "hugo-blox/blox/all-access/README.md",
     "content/blog/second-brain/index.md",
     "content/blog/teach-courses/index.md",
