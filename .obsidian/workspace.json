@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/my-post/index.md.md",
+                "file": "content/blog/my-post/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index.md"
+              "title": "index"
             }
           }
         ]
@@ -172,7 +172,7 @@
   "active": "87ae940e4d08110a",
   "lastOpenFiles": [
     "content/blog/_index.md",
-    "content/blog/my-post/index.md.md",
+    "content/blog/my-post/index.md",
     "content/blog/my-post",
     "content/authors/admin/_index.md",
     "content/authors/admin/avatar.jpg",
