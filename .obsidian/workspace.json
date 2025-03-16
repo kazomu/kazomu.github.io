@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LICENSE.md",
+                "file": "content/blog/favorite-equations/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LICENSE"
+              "title": "index"
+            }
+          },
+          {
+            "id": "8483923a4a3b25dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -53,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "topics",
+                "query": "markup",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +88,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,9 +186,17 @@
   },
   "active": "87ae940e4d08110a",
   "lastOpenFiles": [
-    "static/uploads/resume.pdf",
-    "LICENSE.md",
+    "content/_index.md",
+    "content/blog/favorite-equations/index.md",
+    "content/blog/bakuman/index.md",
     "README.md",
+    "public/blog/bakuman/index.html",
+    "public/blog/bakuman",
+    "public/blog/favorite-equations/index.html",
+    "public/blog/favorite-equations",
+    "LICENSE.md",
+    "content/blog/favorite-equations",
+    "static/uploads/resume.pdf",
     "hugo-blox/blox/community/README.md",
     "public/blog/get-started/featured_hu_c47006dec7623e60.webp",
     "public/blog/get-started/featured_hu_7b4fdd7a11f17fab.webp",
@@ -185,9 +208,7 @@
     "public/author/カスリ/avatar_hu_f256b60d92c5a037.jpg",
     "public/author/カスリ/avatar_hu_f8ef67659225bd81.webp",
     "public/author/カスリ/avatar_hu_e0946a3034192f8b.jpg",
-    "content/_index.md",
     "content/tags/_index.md",
-    "content/blog/bakuman/index.md",
     "content/authors/admin/_index.md",
     "content/authors/_index.md",
     "content/uses.md",
@@ -196,12 +217,6 @@
     "hugo_stats.json",
     "public/index.xml",
     "public/blog/index.xml",
-    "public/tag/hugo/index.xml",
-    "public/tag/hugo-blox-builder/index.xml",
-    "public/tag/academic/index.xml",
-    "public/tags/index.xml",
-    "public/categories/index.xml",
-    "public/_redirects",
     "2025-03-16.md",
     "Welcome.md",
     "hugo-blox/blox/all-access/README.md",
@@ -215,7 +230,6 @@
     "cazulieformell.github.io/content/blog/teach-courses/index.md",
     "cazulieformell.github.io/content/blog/second-brain/index.md",
     "cazulieformell.github.io/content/blog/project-management/index.md",
-    "cazulieformell.github.io/content/blog/get-started/index.md",
-    "cazulieformell.github.io/content/blog/data-visualization/index.md"
+    "cazulieformell.github.io/content/blog/get-started/index.md"
   ]
 }
