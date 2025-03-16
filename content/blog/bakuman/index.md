@@ -7,6 +7,7 @@ date: 2025-03-16
 ### Strengths
 
 - Display of passion and dedication
+- Significance of healthy competition, rivalry and good mentorship
 - Showcasing different versions of artists - some who create art by strategizing to create something new, and others who have art flowing through them.
 - Insight into how manga is created
 - Awesome opening song (blue bird)
