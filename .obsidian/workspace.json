@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/bakuman/index.md",
+                "file": "content/blog/gintama/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -185,6 +185,9 @@
   },
   "active": "87ae940e4d08110a",
   "lastOpenFiles": [
+    "content/blog/bakuman/index.md",
+    "content/blog/gintama/index.md",
+    "content/blog/gintama",
     "content/authors/admin/_index.md",
     "content/authors/_index.md",
     "content/_index.md",
@@ -192,7 +195,6 @@
     "content/blog/_index.md",
     "content/uses.md",
     "content/blog/favorite-equations/index.md",
-    "content/blog/bakuman/index.md",
     "README.md",
     "public/blog/bakuman/index.html",
     "public/blog/bakuman",
@@ -215,7 +217,6 @@
     "content/blog/bakuman",
     "hugo_stats.json",
     "public/index.xml",
-    "public/blog/index.xml",
     "2025-03-16.md",
     "Welcome.md",
     "hugo-blox/blox/all-access/README.md",
