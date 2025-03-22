@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/website_name/index.md",
+                "file": "content/blog/climate_change/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -200,8 +200,8 @@
   },
   "active": "80576bf9f5e618f2",
   "lastOpenFiles": [
-    "content/authors/_index.md",
     "content/blog/website_name/index.md",
+    "content/authors/_index.md",
     "content/blog/website_name",
     "content/blog/_index.md",
     "content/blog/my_setup_germany/index.md",
