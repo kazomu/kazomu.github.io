@@ -10,3 +10,5 @@ highlight_name: true
 website: ""
 ---
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"> </script>
+
+Welcome to my personal blog that is currently under construction!
