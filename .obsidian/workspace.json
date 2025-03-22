@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/german_culture_shocks/index.md",
+                "file": "content/blog/love_germany/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/bakuman/index.md",
+                "file": "content/blog/my_setup_germany/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,15 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "content/blog/german_culture_shocks/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,18 +198,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87ae940e4d08110a",
+  "active": "80576bf9f5e618f2",
   "lastOpenFiles": [
-    "content/blog/misinformation/index.md",
+    "content/blog/love_germany/index.md",
+    "content/blog/my_setup_germany/index.md",
     "content/blog/german_culture_shocks/index.md",
+    "README.md",
+    "content/blog/my_setup_germany",
+    "content/blog/bakuman/index.md",
+    "Untitled 1",
+    "content/blog/climate_change/index.md",
+    "content/blog/favorite-equations/index.md",
+    "content/blog/gintama/index.md",
+    "content/blog/learning_languages/index.md",
+    "content/blog/misinformation/index.md",
+    "content/blog/shell/index.md",
+    "content/blog/shell",
+    "content/blog/learning_languages",
+    "content/blog/love_germany",
     "content/blog/german_culture_shocks",
     "Untitled",
-    "content/blog/climate_change/index.md",
     "content/blog/misinformation",
     "content/authors/admin/_index.md",
-    "README.md",
-    "content/blog/bakuman/index.md",
-    "content/blog/gintama/index.md",
     "content/blog/climate_change",
     "content/authors/_index.md",
     "content/_index.md",
@@ -216,13 +227,7 @@
     "content/tags/_index.md",
     "content/blog/_index.md",
     "content/uses.md",
-    "content/blog/favorite-equations/index.md",
-    "public/blog/bakuman/index.html",
-    "public/blog/bakuman",
-    "public/blog/favorite-equations/index.html",
-    "public/blog/favorite-equations",
     "LICENSE.md",
-    "content/blog/favorite-equations",
     "hugo-blox/blox/community/README.md",
     "public/blog/get-started/featured_hu_c47006dec7623e60.webp",
     "public/blog/get-started/featured_hu_7b4fdd7a11f17fab.webp",
@@ -240,10 +245,6 @@
     "content/blog/second-brain/index.md",
     "content/blog/teach-courses/index.md",
     "content/blog/get-started/index.md",
-    "content/blog/project-management/index.md",
-    "content/blog/data-visualization/index.md",
-    "cazulieformell.github.io/hugo-blox/blox/community/README.md",
-    "cazulieformell.github.io/hugo-blox/blox/all-access/README.md",
-    "cazulieformell.github.io/content/blog/teach-courses/index.md"
+    "content/blog/project-management/index.md"
   ]
 }
