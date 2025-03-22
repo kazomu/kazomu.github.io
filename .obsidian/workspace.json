@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/cooking_tips/index.md",
+                "file": "content/blog/website_name/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -171,8 +171,8 @@
   },
   "active": "80576bf9f5e618f2",
   "lastOpenFiles": [
-    "content/blog/love_germany/index.md",
     "content/blog/cooking_tips/index.md",
+    "content/blog/love_germany/index.md",
     "content/blog/german_culture_shocks/index.md",
     "hugo-blox/blox/community/README.md",
     "content/blog/cooking_tips",
