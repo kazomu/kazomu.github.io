@@ -1,4 +1,6 @@
 .obsidian/plugins/obsidian-git/main.js
 .obsidian/workspace.json
 .obsidian/app.json
+hugo_stats.json
 public
+.DS_Store
