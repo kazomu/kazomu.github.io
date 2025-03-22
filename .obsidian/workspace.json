@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/my_setup_germany/index.md",
+                "file": "content/authors/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "_index"
             }
           },
           {
@@ -200,8 +200,10 @@
   },
   "active": "80576bf9f5e618f2",
   "lastOpenFiles": [
-    "content/blog/love_germany/index.md",
+    "content/blog/_index.md",
     "content/blog/my_setup_germany/index.md",
+    "content/blog/Untitled",
+    "content/blog/love_germany/index.md",
     "content/blog/german_culture_shocks/index.md",
     "README.md",
     "content/blog/my_setup_germany",
@@ -223,9 +225,7 @@
     "content/blog/climate_change",
     "content/authors/_index.md",
     "content/_index.md",
-    "content/blog/gintama",
     "content/tags/_index.md",
-    "content/blog/_index.md",
     "content/uses.md",
     "LICENSE.md",
     "hugo-blox/blox/community/README.md",
@@ -244,7 +244,6 @@
     "hugo-blox/blox/all-access/README.md",
     "content/blog/second-brain/index.md",
     "content/blog/teach-courses/index.md",
-    "content/blog/get-started/index.md",
-    "content/blog/project-management/index.md"
+    "content/blog/get-started/index.md"
   ]
 }
