@@ -8,7 +8,7 @@ To me, Gintama is a story of a very creative author who loves anime. He loves co
 
 So, movie clips cannot be added. Thus, dialogues need to be added in different ways. Maybe crunchyroll links with time stamps mentioned?
 
-- Serious dialogues - kawarani!
+- Serious dialogues - kawarani! The fight where the invaders mock Earth for having women and children fighting in the war, and Kyubei responds by saying "The consequences of war are for women and children. Surely, your exploits will not stop just because a few of us (women) are standing in your way."
 - Hilarious events - Hasegawa suicide
 - Seriousness in hilarious start (Slice of life) - Madao bloom
 - Grossly hilarious events - Shogun negotiation in the last arc.
