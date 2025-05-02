@@ -10,6 +10,7 @@ Things I wish I knew
 3. How buses and trains are booked (Can you take any local train in the route?)
 4. Maybe one of my employers/colleagues/admins can help me find a place (I didn't need it personally because I got lucky, but it would have really been helpful if I didn't).
 5. Getting printouts on a Saturday isn't easy, but using your office printer might be easier to access. The offices are supposed to be accessible on all days including weekends even if no one is guarding it!
+6. Tip 10% at restaurants with a waiter, don't tip at places without a waiter (e.g., bakery).
 
 Things I am glad I knew
 1. Get the Anmeldung appointment before I came.
