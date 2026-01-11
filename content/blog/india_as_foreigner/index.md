@@ -1,5 +1,5 @@
 ---
-title: Being in
+title: Visiting India
 date: 2025-01-10
 ---
 **Work in progress**
