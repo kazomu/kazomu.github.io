@@ -13,6 +13,7 @@ Outside of the pollution and the queueing behavior, people were still nice. I al
 After Delhi and Rajasthan, I visited Bangalore. Being a very big city with a lot of people, I expected Bangalore to be just as polluted as the previous cities I visited but it wasn't. The AQI is still higher than it is probably anywhere in Germany, but I really didn't feel it. I also found the crowd to be gentler. Thus, for a short first trip to India, I will recommend visiting a city like Bangalore. Some other nice things about Bangalore - 
 
 - It still has some cool forts and museums.
+- The weather is pleasant most of the times.
 - There are more cities and mountains worth visiting nearby.
 - The city is very accessible with cabs.
 
