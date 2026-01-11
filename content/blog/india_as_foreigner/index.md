@@ -6,7 +6,7 @@ date: 2025-01-10
 
 This post was inspired from when a friend from Ireland expressed interest in visiting India.
 
-I visited Delhi and my rather-small hometown in Rajasthan in December. What took me most by surprise was the pollution. It is a lot more than what it used to be. The crowd was also more challenging than in Germany. I was very briefly in queues, but enough to feel people squeezing onto me and also learn why they do it (because when I left some room, and someone would cut ahead!).
+I visited Delhi and my rather-small hometown in Rajasthan in December. What took me most by surprise was the pollution. It is a lot more than what it used to be. The crowd was also more challenging than in Germany. I was very briefly in queues, but enough to feel people squeezing onto me and also learn why they do it (because when I left some room, someone would cut ahead!).
 
 Outside of the pollution and the queueing behavior, people were still nice. I also had a much better experience at shops than I usually do in Germany. It was an amazing reminder of the quality of service in India when my friend was able to order an extremely customized vegetable juice for just 80 rupees. This juice had more vegetables than I have had at restaurants in Germany in the whole year combined.
 
