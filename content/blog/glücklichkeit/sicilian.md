@@ -1,6 +1,6 @@
 ---
 title: Die Glücklichkeit
-date:
+date: 2026-04-30
 ---
 **In Arbeit**
 
