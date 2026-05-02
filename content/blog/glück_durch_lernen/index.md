@@ -44,3 +44,5 @@ Another approach: gamification. We all know games are a hit. The enjoyment from 
 # What is not enough: tough it out
 
 The word lazy means "not willing to work or use effort". Thus, whenever you say that you want to learn to play the guitar, but are too lazy to do it, one solution is indeed to put in the effort anyway. And I will be lying to you if I tell you that this step can ever be completely eliminated during learning. However, if you see that happening during most of your learning, it is not going to be a happy process. Fighting your own mind so directly isn't fun. The suggestion I am making in this article is to try going in the other direction and reduce the effort that it takes to do the process in the first place. 
+
+[KI_korrigiert_version](https://kazomu.github.io/gluck_durch_lernen_korrigiert/)
