@@ -23,3 +23,4 @@ Zusammenfaßend lässt sich sagen, dass jede Person in der Lage ist, beim Lernen
 Mit diesem Text wünsche ich Spaß beim Lernen für jede Person dieser Welt!
 
 [KI_korrigierte_version](https://kazomu.github.io/gluck_durch_lernen_korrigiert/)
+
