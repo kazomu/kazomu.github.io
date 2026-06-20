@@ -38,6 +38,9 @@ Wie mache ich diesen Punkt starker?
 
 Am letzte Folge gab es auch eine Szene, wo das neue Leben von Shinpachi gezeigt wurde. Shinpachi hat versucht, jemanden zu retten, wie ihn Gintoki gerettet hat. Es ging aber voll Schief. Die Person braucht keine Hilfe und Shinpachi's Versuch hat alles nur verschlechtert. Der Autor hat dadurch voll gezeigt, dass Shinpachi nicht sich voll verändert hat. Das Leben von Gintoki und Yorozoya war auch das selbe. Und das war meistens der einfache Punkt.
 
+---
+
 ICH WILL DEN PUNKT MACHEN, DASS GINTAMA NICHTS BESONDERS SAGEN MÖCHTE. 
 
+---
 Gintama hat mich zum Lachen und zum weinen gebracht. Die Serie hat mich auch mit ihrer genialen Themen oft beeindruckt. Am Ende habe ich aber meistens von Gintama gelernt, dass auch Anime-Fans mit genug PASSION Autor werden können. Auch wenn du keine neuen Ideen hast, solange du genug PASSION für etwas hast, hast du eine Gesichte zu sagen. Du kannst weder eine volle Serie wie Naruto noch viele DISCONNECTED Folge wie Shinchan machen? Keine Sorge. Eine Mischung von den Beide mit etwas was du sagen möchtest, wie ein TRIBUTE zu anderen Serien, ist vollkommen in Ordnung. Schreib Mal gerne!
