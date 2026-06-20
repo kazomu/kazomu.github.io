@@ -2,7 +2,7 @@
 title: Gintama
 date: 2025-03-16
 ---
-**Work in progress!**
+**Immer noch in der Arbeit!!**
 
 Vielleicht wird dieser Post zu lang. Ich konnte hier eine Übersicht geben und weitere Artikeln für jede wichtige Folge schreiben.
 
@@ -33,3 +33,11 @@ Gintoki ist unser Held, aber sehr Traurig, weil er bereits am Anfang alles verlo
 Jetzt sprechen wir ein bisschen mehr über die Komödie-Seriose Seite von Gintama, die nichts mit der "Hauptgesichte" zu tun hat. Gintama ist wie ぎんたま geschrieben, was mit Absicht (INTENTION) sehr ähnlich von きんたま (KINTAMA) aussieht. Gintoki Sakata Dieses Wort ist etwa zu gefährlich, in einem Familie-freundlichen Blog zu beschreiben. Aber Gintama heißt SILVER SOUL, was gut klingt. Eine Folge, die die Genial von Sorachi zeigt, ist "Das Blühen von Madao". Natürlich ist zu blühen hier Metaphor, dass man evolviert und sich verbessert. Die Folge ist eigentlich über Schuler, die für ihre Sommerhausaufgabe eine Blume zu blühen bringen. Ein Kind Daigoro hat versucht, ein "Madao" zum Blühen bringen. "Madao" ist ein bekanntes Wort in Japan, das "ein Arbeitsloser, Obdachloser Mann" bedeutet. Und Hasegawa ist ein wichtiger Figur in Gintama, der ja ein "Madao" ist. Das Kind Daigoro hat ihn auf der Straße getroffen, als er immer auf einem PARK BENCH liegt. Am Anfang versuchte das Kind diesen mittelälteren Mann mit Sake (Alkohol) zu Blühen zu bringen, WHICH WAS MADE TO SOUND (AGAIN) TOO UNSUITABLE FOR A FAMILY FRIENDLY BLOG. Dann wurde er komisch als ein Hund adoptiert. Später versuchte er, mit Hilfe von Daigoro und seine DIVORCEDE Mutter einen neuen Job zu finden. Der Job konnte er nicht schaffen, weil er den für Daigoro's Vater AUFGEGEBEN hat. Am Ende, wie es immer mit Gintama ist, sich nichts verändert. Hasegawa war immer noch eine Madao, aber es was erwähnt, das er schon seit sehr lang geblüht hat. Einen Madao in Japan ist als den BOTTOM der Welt gesehen, aber in Gintama Welt hat diese Person geblüht, auch wenn er noch ein Madao war.
 
 Wie ende ich diesen Blog?
+
+Wie mache ich diesen Punkt starker?
+
+Am letzte Folge gab es auch eine Szene, wo das neue Leben von Shinpachi gezeigt wurde. Shinpachi hat versucht, jemanden zu retten, wie ihn Gintoki gerettet hat. Es ging aber voll Schief. Die Person braucht keine Hilfe und Shinpachi's Versuch hat alles nur verschlechtert. Der Autor hat dadurch voll gezeigt, dass Shinpachi nicht sich voll verändert hat. Das Leben von Gintoki und Yorozoya war auch das selbe. Und das war meistens der einfache Punkt.
+
+ICH WILL DEN PUNKT MACHEN, DASS GINTAMA NICHTS BESONDERS SAGEN MÖCHTE. 
+
+Am Ende habe ich nur von Gintama gelernt, dass auch Fans mit genug PASSION Autor werden können. Auch wenn du keine neue Idee hast, solange du genug PASSION für etwas hast, hast du eine Gesichte zu sagen. Du kannst weder eine volle Serie wie Naruto noch viele DISCONNECTED Folge wie Shinchan machen. Keine Sorge. Eine Mischung von den Beide mit EINEM TRIBUT ZU ANDEREN SERIEN ist vollkommen in Ordnung. Schreib Mal gerne!
