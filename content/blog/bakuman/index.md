@@ -2,6 +2,7 @@
 title: Bakuman
 date: 2025-03-16
 ---
+**Immer noch in der Arbeit**
 **Work in progress!**
 [Bakuman](https://en.wikipedia.org/wiki/Bakuman) is one of my favorite anime, and I have always wanted to write about it. Someday, I hope I will write this post.
 
@@ -33,3 +34,35 @@ date: 2025-03-16
 - The best opening ever! (TODO - Embed youtube video here?) https://www.youtube.com/watch?v=8vMRheOXO_w
 
 TODO - Add pictures? Links to music?
+
+---
+
+Dieser Artikel ist ähnlich von meiner Meinung nach Gintama in Sinne, dass ich für die Beide über die Erfahrung von den Autoren spreche. Bakuman ist aber direkt über die Gesichte der Autoren. Irgendwie sind Ashirogi Muto (die Hauptautor in Bakuman) sehr ähnlich von Sorachi (der Autor von Gintama). Die Beide lieben anime und wollten etwas neues entwickeln. Die verstehen aber auch, dass etwas in dieser Umgebung zu entwickeln sehr schwierig ist. 
+
+Wenn wir meistens über die bekannten Kunstler\*innen hören, produzieren die ihr Kunst direkt durch ihre Ehrgeiz und Lieb. Sie müssen nicht denken, ob es den Leser gefallen würde. Der Kunst ist für die Autor, auszusprechen. Es ist aber nicht immer so. Es gibt wirklich Autoren, die ihre Kunst direkt für die Leser\*innen passen. Und die sind auch erfolgreich. Die sind Ashirogi Muto, die unsere Hauptcharakter sind. Es geht aber nicht nur um diese Autor, sondern verschiedene andere. 
+
+Die Anime ist aber irgendwie immer noch Shōnen. Die Charakter kämpfen miteinander, auch wenn es nicht mit echten Waffen ist. Die Zeichenstifte sind wie Schwerter betonen. Es ist gezeigt, wie gute Mentoren ein großer Teil des Erfolgs der Autoren sind. 
+
+Hier sind die Themen, mit denen Bakuman sich beschäftigt hat, und meine Analyse, ob er Erfolgreich war oder nicht.
+
+### Wie Autoren unterschiedlich sind
+
+1. Niizuma Eiji: Der perfekte Autor, der auch versteht, welche Manga geeignet ist, und welche nicht. Er hat, sehr früh als ein Kind zu schreiben angefangen, und nie gestoppt. 
+2. Hiramaru: Schreibt nur reicher zu werden. Eigentlich hasst es er, zu schreiben. Er wurde auch dafür durch seinen Mentor gezwungen.
+3. Yuriko Aoki: Sie wollte sich durch ihr Kunst aussprechen, aber sie hat Schwierigkeiten, verständlich für die Leser zu sein.
+4. Shinta Fukuda: Er war auch wie andere Autoren fleißig. Was ihn besonders machte, war sein Wünsch, die Manga-Industrie zu verbessern. 
+5. Aiko Iwase - Sie wurde eine Manga-Autorin, nur weil ihr Schwarm ein war. Sie war bereits eine erfolgreiche Romane-Autorin.
+
+## Die Hingabe
+
+Natürlich war die Hingabe sehr stark gezeigt. Es geht aber auch um "zu Stark" und etwa "ungesund" zu sein. Lohnt es sich irgendwann, die Gesundheit für die Arbeit zu opfern?
+
+## Die Frauen 
+
+Wurden die Frauen gut dargestellt? Manchmal wurden die Frauen als etwas zu schwach gezeigt. 
+
+Die Verschiedene Autor:
+
+Ashirogi Muto: Strategieren, wie man etwas für die 
+
+Gintama ist  Diese Geschichte spricht aber 
